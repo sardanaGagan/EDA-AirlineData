@@ -21,3 +21,5 @@ The primary objectives of this EDA project are as follows:
 4. **Trends and Patterns:** Identify trends, patterns, and anomalies within the flight data.
 
 5. **Insights:** Provide insights and findings based on the analysis that may be relevant to stakeholders, travelers, and aviation authorities.
+
+## Tableau Dashboard Link - https://public.tableau.com/app/profile/gagan.sardana/viz/MIS41040-Team40/Story1
